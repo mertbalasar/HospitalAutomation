@@ -1,0 +1,21 @@
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\EntityFramework.dll
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\EntityFramework.xml
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csprojAssemblyReference.cache
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form1.resources
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.cache
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.CopyComplete
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form2.resources
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form3.resources
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form4.resources
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Laboratuvar.dll
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Laboratuvar.pdb
+c:\users\mert\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form5.resources
